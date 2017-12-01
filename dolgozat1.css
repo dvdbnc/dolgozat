@@ -1,0 +1,51 @@
+body {
+    background-color: #D6E3F2;
+}
+
+.fo-menu {
+    height: 80px;
+    width: 1000px;
+    background-color: #262F73;
+}
+
+.menupont {
+    height: 80px; 
+    width: 150px;
+    background-color: #45698E;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    line-height: 75px;
+}
+
+.fo-alpont {
+    height: 400px;
+    width: 1000px;
+    background-color: #262F73;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+.alpont {
+    height: 250px;
+    width: 200px;
+    display: inline-block;
+    overflow: hidden;
+    background-color: #26E173;
+    text-align: center;
+    margin: 75px 25px 75px 25px;
+}
+
+.tartalom-doboz {
+    background-color: #45698E;
+    width: 1000px;
+    height: 1000px;
+}
+
+.tartalom {
+    color: white;
+    margin-top: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
